@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Deck Builder"
+  short_description: "Route-aware PPT decks with native, image and HTML QA"
+  default_prompt: "Use $ppt-deck-builder to choose the right route, create a polished deck, and verify every slide."
